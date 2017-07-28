@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">AlarmDemo</string>
+
+    <array name="songs">
+        <item>chooo0ose song</item>
+        <item >start</item>
+        <item >start2</item>
+        <item >stop</item>
+
+    </array>
+</resources>
